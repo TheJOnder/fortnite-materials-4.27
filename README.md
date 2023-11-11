@@ -46,6 +46,16 @@ Repository storing general Fortnite materials (by Epic Games)
 - Others
 
 
+## --- 27.00 update (11/11/23) ---
+- Rufus content
+  ·Athena_Terrain_Mat_Biome
+  ·Rufus_Stream_Flowmaps_01
+  ·M_Rufus_Ice_Snow
+
+- Helios (CH5) add
+
+- **P_FN_Base_2022** and **M_CharacterParent_2023** update and dixes
+
 ---
 -This will be updated over time, to add new shaders, update or fix them.
 
